@@ -1,8 +1,7 @@
 ---
-layout: post
 title:  "Embracing the Luminescence: The Convergence of AI and Lighting"
 date:   2023-12-29 04:41:07 -0800
-categories: jekyll update
+categories: ai lighting
 ---
 In the interplay of light and shadow, lighting design crafts not just visibility but mood, emotion, and the very essence of how we experience space. It is an art form that paints with photons, sculpting ambiances in homes, guiding footsteps in urban landscapes, and even influencing rhythms of sleep and wakefulness. But as artificial intelligence (AI) tiptoes into this luminescent ballet, it promises a revolution—a dance of algorithms and rays, where light adapts with an almost sentient anticipation of human needs and desires.
 
@@ -23,7 +22,7 @@ The office of the future could employ such systems to reduce eye strain and impr
 
 ### Sustainability in a New Light
 
-Sustainability is another realm where AI-infused lighting design is making significant strides. The environmental impact of lighting is not trivial—according to the International Energy Agency, lighting accounts for nearly 5% of global CO2 emissions. AI can optimize energy usage by learning patterns of utilization and adjusting lighting only where and when it's needed, reducing both costs and carbon footprints.
+Sustainability is another realm where AI-infused lighting design is making significant strides. The environmental impact of lighting is not trivial—according to the International Energy Agency, lighting accounts for [nearly 5% of global CO2 emissions](https://www.iea.org/energy-system/buildings/lighting). AI can optimize energy usage by learning patterns of utilization and adjusting lighting only where and when it's needed, reducing both costs and carbon footprints.
 
 Smart cities are already piloting AI to manage street lighting, dimming lights in empty areas, and brightening them as pedestrians or vehicles approach. This application not only conserves energy but also ensures safety, creating a responsive grid of illumination that breathes with the life of the city.
 
