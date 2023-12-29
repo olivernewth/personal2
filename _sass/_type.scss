@@ -2,9 +2,18 @@
 //
 // Headings, body text, lists, and other misc typographic elements.
 
+@font-face {
+  font-family: 'Signify';
+  src:  url('assets/signify.woff2') format('woff2'),
+}
+
+@font-face {
+  font-family: 'Sohne';
+  src:  url('assets/sohne.woff2') format('woff2'),
+}
+
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
-  font-weight: 600;
+  margin-bottom: 1.5rem;
   line-height: 1.25;
   color: var(--heading-color);
 }
@@ -29,6 +38,7 @@ h4, h5, h6 {
 }
 
 p {
+  font-family: 'Signify';
   margin-top: 0;
   margin-bottom: 1rem;
 }
