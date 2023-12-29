@@ -39,6 +39,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-default-layout
 #  - jekyll-strapi
 
 #strapi:

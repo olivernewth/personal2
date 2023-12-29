@@ -24,3 +24,12 @@ footer {
     float:right;
   }
 }
+
+@media (max-width: 30em) {
+  footer {
+    #logo {
+      float:left!important;
+      margin: 4rem 0!important;
+    }
+  }  
+}
