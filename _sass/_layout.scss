@@ -13,4 +13,14 @@
 footer {
   margin-top: var(--spacer-3);
   margin-bottom: var(--spacer-3);
+
+  small {
+    display:inline-block;
+    color: var(--gray-600);
+    margin-top:20px;
+  }
+
+  #logo {
+    float:right;
+  }
 }
