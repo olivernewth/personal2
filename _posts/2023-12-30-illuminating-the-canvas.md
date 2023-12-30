@@ -22,7 +22,7 @@ In a similar vein, light intensity becomes a powerful tool, much like a director
 ### The Dance of Light and Movement
 The interplay of light and movement adds another layer, transforming static installations into living, breathing entities. TeamLab's "Forest of Resonating Lamps" demonstrates this beautifully, with motion sensors triggering a captivating dance of lights in response to visitor movements. This concept is mirrored in New York City's "Cascade of Illumination," where lights respond to environmental sounds, crafting an ever-evolving visual symphony.
 
-![An artistic rendering of "Cascade of Illumination," capturing the fluid movement of light in response to sound.](https://media.discordapp.net/attachments/1187256664802459757/1190598333736173688/onewth_86230_A_realistic_rendering_of_Cascade_of_Illumination_c_d49a1c09-e903-432a-a118-4e005237aa7b.png?ex=65a2621b&is=658fed1b&hm=20248b56f8df62bf44479e84714f3859bcf7851d66c5916bebde4aaa91b7bf12&=&format=webp&quality=lossless&width=2237&height=1405)
+![An artistic rendering of "Cascade of Illumination," capturing the fluid movement of light in response to sound.](https://media.discordapp.net/attachments/1187256664802459757/1190616816918216735/onewth_86230_An_aerial_view_of_the_Waves_of_Light_installation__1744c644-235a-41b6-a55b-30417df32ae6.png?ex=65a27351&is=658ffe51&hm=8d10448f6f5e0bd06e23f27c45590030046851b6e11159ac0b54b15f64acac58&=&format=webp&quality=lossless&width=2237&height=1405)
 *A rendering of "Cascade of Illumination," capturing the fluid movement of light in response to sound*
 
 ### Transforming Space into a Storytelling Canvas

@@ -16,18 +16,19 @@ footer {
 
   small {
     display:inline-block;
-    margin-top:20px;
   }
 
   #logo {
     float:right;
+    height:4rem;
   }
 }
 
-@media (max-width: 30em) {
+@media (max-width: 50em) {
   footer {
     #logo {
-      float:left!important;
+      display:inline-block;
+      float:left;
       margin: 4rem 0!important;
     }
   }  
