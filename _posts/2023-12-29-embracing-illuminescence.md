@@ -1,5 +1,5 @@
 ---
-title:  "Embracing the Luminescence: The Convergence of AI and Lighting"
+title:  "Embracing Luminescence: The Convergence of AI and Lighting"
 date:   2023-12-29 04:41:07 -0800
 categories: ai lighting
 ---
