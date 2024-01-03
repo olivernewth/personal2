@@ -26,6 +26,8 @@ gem "jekyll-paginate"
 gem "jekyll-seo-tag"
 #gem "jekyll-strapi"
 gem 'jekyll-default-layout'
+gem "jekyll-responsive-image"
+
 
 end
 
