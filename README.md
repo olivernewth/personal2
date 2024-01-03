@@ -23,9 +23,11 @@ This repository the code for my website showcasing my professional portfolio, bl
 ## Setup
 
 1. Clone the repository to your local machine.
+
    ```bash
    git clone https://github.com/yourusername/personal-website.git
    ```
+
 2. Follow the Jekyll installation and setup instructions from the [Jekyll website](http://jekyllrb.com) to get the website running locally.
 
 ## Usage
